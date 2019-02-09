@@ -6,5 +6,6 @@
 # 2 Web Scraper Final:
   It reads all the **X** number of files created in json and creates a single final json database by linking all the subjects that each       individual students are having and stores their results.
 # Note:
-  The Client/Web-Interface of this Gpa_Perfomance_Tracker is Developed by [Arnab Biswas](https://github.com/ArnabBiswas2303)
+  The Front-End of this Gpa_Perfomance_Tracker is Developed by [Arnab Biswas](https://github.com/ArnabBiswas2303)
+  [Gpa Perfomance Tracker is now Live](www.smittracker.com)
 <a href="https://imgur.com/D3Nhve0"><img src="https://i.imgur.com/D3Nhve0.png" title="source: imgur.com" /></a>
