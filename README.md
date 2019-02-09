@@ -8,4 +8,4 @@
 # Note:
   The Front-End of this Gpa_Perfomance_Tracker is Developed by [Arnab Biswas](https://github.com/ArnabBiswas2303)</br>
   The [Gpa Perfomance Tracker](http://www.smittracker.com) is now Live!
-<a href="https://imgur.com/D3Nhve0"><img src="https://i.imgur.com/D3Nhve0.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/6IxuBJJ"><img src="https://i.imgur.com/6IxuBJJ.png" title="source: imgur.com" /></a>
