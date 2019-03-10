@@ -7,5 +7,6 @@
   It reads all the **X** number of files created in json and creates a single final json database by linking all the subjects that each       individual students are having and stores their results.
 # Note:
   The Front-End of this Gpa_Perfomance_Tracker is Developed by [Arnab Biswas](https://github.com/ArnabBiswas2303)</br>
-  The [Gpa Perfomance Tracker](http://www.smittracker.com) is now Live!
-<a href="https://imgur.com/JByKzfV"><img src="https://i.imgur.com/JByKzfV.png" title="source: imgur.com" /></a>
+  The [Gpa Perfomance Tracker](http://www.smittracker.com) is now Live!</br>
+  <center>
+<a href="https://imgur.com/JByKzfV"><img src="https://i.imgur.com/JByKzfV.png" title="source: imgur.com" /></a></center>
